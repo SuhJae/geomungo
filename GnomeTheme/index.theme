@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=Geomungo
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
