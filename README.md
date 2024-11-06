@@ -14,3 +14,7 @@
 
 1. Gnome 데스크톱을 사용한다면 `GnomeTheme` 폴더를 `/usr/share/sounds/` (모든 사용자) 또는 `~/.local/share/sounds/` (개인 사용자)에 복사하세요.
 2. Gnome Tweaks를 열고 `사운드` 탭에서 `Geomungo` 테마를 선택하세요.
+
+### 크래딧
+
+- 소리 테마 기반: Yaru (모든 소리를 순차적으로 변경할 예정)
